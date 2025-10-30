@@ -27,7 +27,7 @@ You may also use alternative fonts by modifying the font entries in the style fi
 ## License
 MIT License
 
-This Typst template is adapted from [peace-of-posters](https://github.com/jonaspleyer/peace-of-posters) by Jonas Pleyer and inspired by [Gemini](https://github.com/anishathalye/gemini) by Anish Athalye. See LICENSE.md for full details.
+This Typst template is adapted from [peace-of-posters](https://github.com/jonaspleyer/peace-of-posters) by Jonas Pleyer and inspired by [Gemini](https://github.com/anishathalye/gemini) by Anish Athalye. See LICENSE for full details.
 
 ## References
 - [peace-of-posters (MIT License)](https://github.com/jonaspleyer/peace-of-posters)
