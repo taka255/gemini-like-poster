@@ -1,0 +1,8 @@
+[package]
+name = "gemini-like-poster"
+version = "0.1.0"
+entry = "main.typ"
+authors = ["taka255"]
+
+[template]
+path = "main.typ"
