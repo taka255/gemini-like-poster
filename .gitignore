@@ -1,7 +1,4 @@
 # macOS Finder
-.DS_Store
-
-# Editor local history
 .history/
-**/.history/**
+.DS_Store
 
