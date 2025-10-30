@@ -2,7 +2,10 @@
 name = "gemini-like-poster"
 version = "0.1.0"
 entry = "main.typ"
-authors = ["taka255"]
+authors = ["Kaito Takanami"]
+license = "MIT"
+description = "Gemini-like Poster Template for Typst."
+repository = "https://github.com/taka255/gemini-like-poster"
 
 [template]
 path = "main.typ"
