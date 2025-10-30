@@ -9,7 +9,9 @@ A clean academic poster template for [Typst](https://typst.app), inspired by the
 - Japanese and English mixed text support (日本語と英語の混在したテキストをサポート)
 
 ## Gallery
-
+|  |  |
+|---|---|
+| ![Gallery EN](gallery/steel-blue-en.png) | ![Gallery JA](gallery/steel-blue-ja.png) |
 
 ## Font Settings for Japanese and English mixed text
 This template uses the following fonts by default:
